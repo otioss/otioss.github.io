@@ -2,19 +2,16 @@
 
 ---
 
-### Category Name 1 
+### Speech
+[AccentCouch: Transform your Accent]()
 
-[Project 1 Title](/post/ender3-v2-front-panel)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 2 Title](/post/annotated-swin-transformer)
+### Vision 
+[Annotated Swin Transformer](/post/annotated-swin-transformer)
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+### Maker
+[Ender3 V2 Front Panel](/post/ender3-v2-front-panel)
 
 ### Category Name 2
 
