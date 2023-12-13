@@ -5,11 +5,10 @@ title: Welcome
 list_title: My blog posts
 ---
 
-<p>`otioss` is a place to share <del>otiose</del> otioss creations of mine. nothing fancy. 
+<p>[`otioss`][] is a place to share random creations of mine. nothing fancy. 
 This website is very new and is a work in progress. You can contact me <a href="mailto:otioss@protonmail.com">here</a> or 
 follow me on <a href="https://X.com/otioss">X</a>.
-Please consider supporting my work on <a href="https://patreon.com/otioss">Pateron</a> or:</p>
-        <p><small>BTC: 14W6dfFzLm3TwRqKETpcm6EczXxFwf7WEK</small></p>
+Please consider supporting my work on <a href="https://patreon.com/otioss">Pateron</a>
 
 
 This is a template and some instructions for running Github Pages with the [`minima` theme][minima]. This repo has what I consider the minimum pieces for a personal blog using [Jekyll][jk] and [Github Pages][gh-site].
