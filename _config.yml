@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: otioss # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  otioss is a place to share otiose otioss creations of mine. 
+  nothing fancy. This website is very new and is a work in progress. 
+  You can contact me here or follow me on twitter. 
+  Please consider supporting my work on Pateron or: 
+  BTC: 14W6dfFzLm3TwRqKETpcm6EczXxFwf7WEK
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
