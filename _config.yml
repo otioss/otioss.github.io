@@ -1,6 +1,6 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
+title: otioss
+description: otiose creations of mine.
+author: "otioss"
 
 theme: minima
 
@@ -8,9 +8,9 @@ base_url: /gh-pages-minima-starter
 repository: jsanz/gh-pages-minima-starter
 
 # Minima social links
-github_username: jsanz
-linkedin_username: jsanz
-rss: rss
+github_username: otios
+#linkedin_username: otioss
+#rss: rss
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
