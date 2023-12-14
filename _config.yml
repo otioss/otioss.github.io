@@ -13,7 +13,7 @@ github_username: otioss
 #rss: rss
 
 # Minima: show excerpts in the frontpage
-show_excerpts: true
+show_excerpts: false
 
 minima:
   date_format: "%Y-%m-%d"
