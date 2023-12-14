@@ -1,8 +1,8 @@
 ---
 permalink: /
 layout: home
-title: Welcome
-list_title: My blog posts
+title: 
+list_title: 
 ---
 
 `otioss` is a place to share random creations of mine. nothing fancy. 
