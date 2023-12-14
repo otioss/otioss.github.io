@@ -1,5 +1,5 @@
 ---
-title: "Front-Mounted Panel for Ender 3 V2's Stock LCD Display"
+title: "Front-Mounted LCD Panel with Firmware Upgrade for Ender 3 V2"
 date: '2021-02-07'
 ---
 
