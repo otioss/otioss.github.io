@@ -4,6 +4,9 @@ date: '2023-12-13'
 ---
 Einstein had a thick German accent:
 
-<audio controls="controls" src="http://gist-it.appspot.com/github/Sebastian-O-Rodriguez/about/blob/master/audio/100-grandkids-sample.wav">
+<audio controls="controls" src="https://dl.sndup.net/9y9x/Albert-Einstein.wav">
 <p>Your browser does not support the audio element.</p>
 </audio>
+
+And here is how he would have sounded like if he was a native speaker:
+
