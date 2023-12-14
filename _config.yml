@@ -8,7 +8,7 @@ base_url: /gh-pages-minima-starter
 repository: jsanz/gh-pages-minima-starter
 
 # Minima social links
-github_username: otios
+github_username: otioss
 #linkedin_username: otioss
 #rss: rss
 
@@ -21,8 +21,8 @@ minima:
 # Minima: custom header links
 header_pages:
   - _pages/frontpage.md
-  - _pages/about.md
-  - _pages/archive.md
+#  - _pages/about.md
+#  - _pages/archive.md
 
 include:
     - _pages
