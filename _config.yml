@@ -16,7 +16,7 @@ github_username: otioss
 show_excerpts: false
 
 minima:
-  date_format: "%Y-%m-%d"
+  #date_format: "%Y-%m-%d"
 
 # Minima: custom header links
 header_pages:
