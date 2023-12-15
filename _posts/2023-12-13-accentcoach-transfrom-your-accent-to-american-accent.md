@@ -12,7 +12,11 @@ Here is  Einstein's distinct German accent:
 <p>Your browser does not support the audio element.</p>
 </audio>
 
-And here is his AI-generated American accent:
+And here is Einstein's AI-generated American accent:
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1691230965&color=%238b00ed&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/yytjnfalh2wy" title="user216848838" target="_blank" style="color: #cccccc; text-decoration: none;">user216848838</a> · <a href="https://soundcloud.com/yytjnfalh2wy/albert-einstein-native-american-accent-1" title="Albert-Einstein-American-Accent" target="_blank" style="color: #cccccc; text-decoration: none;">Albert-Einstein-American-Accent</a></div>
+
 
 <audio controls="controls" preload="auto" src="https://dl.sndup.net/jq46/Albert-Einstein-Native-American-Accent.wav">
 <p>Your browser does not support the audio element.</p>
@@ -30,7 +34,7 @@ His AI-generated American accent:
 
 pretty cool, huh?
 
-I put together a demo on HuggingFace that you can use to transfrom your accent or any accent into American accent. I believe this tool could be extremely value for English learners. It can be a tremendous help with accent reduction and pronuncation. 
+I put together a demo on HuggingFace called AccentCoach that you can use to transfrom your accent or any accent into American accent. I believe this tool could be extremely value for English learners. It can be a tremendous help with accent reduction and pronuncation. 
 
 You want to see how you sound like with an American accent? you can try the demo:
 
