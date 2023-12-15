@@ -7,7 +7,24 @@ I did a little experiment the other day. You've probably heard about StyleTTS2 w
 First, let's try this with two individuals in history who have had a recognizable accent: Albert Einstein and Arnold Schwarzenegger.
 
 Here is  Einstein's distinct German accent:
+  <div id="audio-container">
+    <button id="play-btn">Play</button>
+  </div>
 
+  <script>
+    var sound = new Howl({
+      src: ['path/to/your/audio.wav'],
+      html5: true,
+    });
+
+    var playButton = document.getElementById('play-btn');
+    playButton.addEventListener('click', function() {
+      sound.play();
+    });
+  </script>
+
+
+  
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1691239743&color=%238b00ed&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/yytjnfalh2wy" title="user216848838" target="_blank" style="color: #cccccc; text-decoration: none;">user216848838</a> · <a href="https://soundcloud.com/yytjnfalh2wy/albert-einstein-german-accent" title="Albert Einstein German Accent" target="_blank" style="color: #cccccc; text-decoration: none;">Albert Einstein German Accent</a></div>
 
 And here is Einstein's AI-generated American accent:
