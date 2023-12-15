@@ -7,24 +7,28 @@ I did a little experiment the other day. You've probably heard about StyleTTS2 w
 First, let's try this with two individuals in history who have had a recognizable accent: Albert Einstein and Arnold Schwarzenegger.
 
 Here is  Einstein's distinct German accent:
-  <div id="audio-container">
-    <button id="play-btn">Play</button>
-  </div>
 
-  <script>
-    var sound = new Howl({
-      src: ['path/to/your/audio.wav'],
-      html5: true,
-    });
+<div id="waveform">
+  <!-- the waveform will be rendered here -->
+</div>
 
-    var playButton = document.getElementById('play-btn');
-    playButton.addEventListener('click', function() {
-      sound.play();
-    });
-  </script>
+<script type="module">
+import WaveSurfer from 'https://unpkg.com/wavesurfer.js@7/dist/wavesurfer.esm.js'
+
+const wavesurfer = WaveSurfer.create({
+  container: '#waveform',
+  waveColor: '#4F4A85',
+  progressColor: '#383351',
+  url: 'https://dl.sndup.net/jq46/Albert-Einstein-Native-American-Accent.wav',
+})
+
+wavesurfer.on('interaction', () => {
+  wavesurfer.play()
+})
+</script>
 
 
-  
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1691239743&color=%238b00ed&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/yytjnfalh2wy" title="user216848838" target="_blank" style="color: #cccccc; text-decoration: none;">user216848838</a> · <a href="https://soundcloud.com/yytjnfalh2wy/albert-einstein-german-accent" title="Albert Einstein German Accent" target="_blank" style="color: #cccccc; text-decoration: none;">Albert Einstein German Accent</a></div>
 
 And here is Einstein's AI-generated American accent:
