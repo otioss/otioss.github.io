@@ -7,19 +7,15 @@ I did a little experiment the other day. You've probably heard about StyleTTS2 w
 First, let's try this with two individuals in history who have had a recognizable accent: Albert Einstein and Arnold Schwarzenegger.
 
 Here is  Einstein's distinct German accent:
+<audio controls="controls" preload="auto" src="/media/Albert-Einstein">
+<p>Your browser does not support the audio element.</p>
+</audio>
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1360791869/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://thekiffness.bandcamp.com/track/please-go-away-flamenco-edit-ft-spaul">Please Go Away (Flamenco Edit) ft. Spaul by The Kiffness</a></iframe>
-
-
-<iframe src="https://audiomack.com/embed/jemzipx/song/albert-einstein" scrolling="no" width="100%" height="252" frameborder="0" title="Albert-Einstein"></iframe>
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1691239743&color=%238b00ed&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/yytjnfalh2wy" title="user216848838" target="_blank" style="color: #cccccc; text-decoration: none;">user216848838</a> · <a href="https://soundcloud.com/yytjnfalh2wy/albert-einstein-german-accent" title="Albert Einstein German Accent" target="_blank" style="color: #cccccc; text-decoration: none;">Albert Einstein German Accent</a></div>
+<audio controls="controls" preload="auto" src="../media/Albert-Einstein">
+<p>Your browser does not support the audio element.</p>
+</audio>
 
 And here is Einstein's AI-generated American accent:
-
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1691230965&color=%238b00ed&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/yytjnfalh2wy" title="user216848838" target="_blank" style="color: #cccccc; text-decoration: none;">user216848838</a> · <a href="https://soundcloud.com/yytjnfalh2wy/albert-einstein-native-american-accent-1" title="Albert-Einstein-American-Accent" target="_blank" style="color: #cccccc; text-decoration: none;">Albert-Einstein-American-Accent</a></div>
-
 
 <audio controls="controls" preload="auto" src="https://dl.sndup.net/jq46/Albert-Einstein-Native-American-Accent.wav">
 <p>Your browser does not support the audio element.</p>
@@ -44,3 +40,5 @@ You want to see how you sound like with an American accent? you can try the demo
 https://huggingface.co/spaces/otioss/AccentCoach
 
 [![Accent-Coach-AI-Accent-Cloning-Reduction.jpg](https://i.postimg.cc/wvYtD7Dd/Accent-Coach-AI-Accent-Cloning-Reduction.jpg)](https://postimg.cc/KKQv2c99)
+
+Although this is more like a STTS rather than SS. I still thought it's a neat trick for those who struggle with accent reduction. 
