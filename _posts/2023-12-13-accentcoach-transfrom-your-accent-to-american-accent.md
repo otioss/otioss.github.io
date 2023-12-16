@@ -7,9 +7,6 @@ I did a little experiment the other day. You've probably heard about StyleTTS2 w
 First, let's try this with two individuals in history who have had a recognizable accent: Albert Einstein and Arnold Schwarzenegger.
 
 Here is  Einstein's distinct German accent:
-<audio controls="controls" preload="auto" src="/media/Albert-Einstein">
-<p>Your browser does not support the audio element.</p>
-</audio>
 
 <audio controls="controls" preload="auto" src="/assets/audio/Albert-Einstein.wav">
 <p>Your browser does not support the audio element.</p>
@@ -17,17 +14,17 @@ Here is  Einstein's distinct German accent:
 
 And here is Einstein's AI-generated American accent:
 
-<audio controls="controls" preload="auto" src="https://dl.sndup.net/jq46/Albert-Einstein-Native-American-Accent.wav">
+<audio controls="controls" preload="auto" src="/assets/audio/Albert-Einstein-Native-American-Accent.wav">
 <p>Your browser does not support the audio element.</p>
 </audio>
 
 Here is Arnold Schwarzenegger's accent:
-<audio controls="controls" preload="auto" src="https://dl.sndup.net/p6gz/Arnold-Schwarzenegger.wav">
+<audio controls="controls" preload="auto" src="/assets/audio/Arnold-Schwarzenegger.wav">
 <p>Your browser does not support the audio element.</p>
 </audio>
 
 His AI-generated American accent:
-<audio controls="controls" preload="auto" src="https://dl.sndup.net/mkgc/Arnold-Schwarzenegger-Native-American-Accent.wav">
+<audio controls="controls" preload="auto" src="/assets/audio/Arnold-Schwarzenegger-Native-American-Accent.wav">
 <p>Your browser does not support the audio element.</p>
 </audio>
 
