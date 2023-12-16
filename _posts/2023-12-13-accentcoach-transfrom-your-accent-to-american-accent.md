@@ -11,7 +11,7 @@ Here is  Einstein's distinct German accent:
 <p>Your browser does not support the audio element.</p>
 </audio>
 
-<audio controls="controls" preload="auto" src="/assets/audio/Albert-Einstein">
+<audio controls="controls" preload="auto" src="/assets/audio/Albert-Einstein.wav">
 <p>Your browser does not support the audio element.</p>
 </audio>
 
