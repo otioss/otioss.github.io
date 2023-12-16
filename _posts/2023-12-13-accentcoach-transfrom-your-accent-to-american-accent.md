@@ -1,41 +1,36 @@
 ---
-title: "Transform Your Accent to American Accent using AI"
+title: "Can Einstein's German accent be transformed into an American accent?"
 date: '2023-12-13'
 ---
-I did a little experiment the other day. You've probably heard about StyleTTS2 which was released last month. One interesting effect is that by adjusting the value of alpha and beta you can transform any accent into American accent. Combine it with Whisper and suddenly you have an AI accent coach. 
-
-First, let's try this with two individuals in history who have had a recognizable accent: Albert Einstein and Arnold Schwarzenegger.
-
-Here is  Einstein's distinct German accent:
+You probably have heard Einstein's distinct accent:
 
 <audio controls="controls" preload="auto" src="/assets/audio/Albert-Einstein.wav">
 <p>Your browser does not support the audio element.</p>
 </audio>
 
-And here is Einstein's AI-generated American accent:
+Is it possible to transform Einstein's accent into an American accent? By carefully adjusting the prosody and timbre in a TTS model such as StyleTTS2, one can easily transform Einsten's accent into an American accent: 
+
 
 <audio controls="controls" preload="auto" src="/assets/audio/Albert-Einstein-Native-American-Accent.wav">
 <p>Your browser does not support the audio element.</p>
 </audio>
 
-Here is Arnold Schwarzenegger's accent:
+Here is another example that needs no introduction: Arnold Schwarzenegger:
 <audio controls="controls" preload="auto" src="/assets/audio/Arnold-Schwarzenegger.wav">
 <p>Your browser does not support the audio element.</p>
 </audio>
 
-His AI-generated American accent:
+Here is his synthesized American accent:
 <audio controls="controls" preload="auto" src="/assets/audio/Arnold-Schwarzenegger-Native-American-Accent.wav">
 <p>Your browser does not support the audio element.</p>
 </audio>
 
-pretty cool, huh?
 
-I put together a demo on HuggingFace called AccentCoach that you can use to transfrom your accent or any accent into American accent. I believe this tool could be extremely value for English learners. It can be a tremendous help with accent reduction and pronuncation. 
+I created a demo on HuggingFace named AccentCoach that allows you to change your accent or any accent to American accent. I think this tool could be very useful for English learners. It can greatly assist with improving your accent and pronunciation
 
 You want to see how you sound like with an American accent? you can try the demo:
 
 https://huggingface.co/spaces/otioss/AccentCoach
 
-[![Accent-Coach-AI-Accent-Cloning-Reduction.jpg](https://i.postimg.cc/wvYtD7Dd/Accent-Coach-AI-Accent-Cloning-Reduction.jpg)](https://postimg.cc/KKQv2c99)
+[![Accent-Coach-AI-Accent-Cloning-Reduction.jpg](https://i.postimg.cc/wvYtD7Dd/Accent-Coach-AI-Accent-Cloning-Reduction.jpg)](https://huggingface.co/spaces/otioss/AccentCoach)
 
-Although this is more like a STTS rather than SS. I still thought it's a neat trick for those who struggle with accent reduction. 
