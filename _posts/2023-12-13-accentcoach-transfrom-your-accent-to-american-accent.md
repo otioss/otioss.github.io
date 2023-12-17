@@ -37,14 +37,14 @@ Here is his American accent produced by AccentCoach:
 <p>Your browser does not support the audio element.</p>
 </audio>
 <br/>
-<br/>
+ 
 
 Curious about how you'd sound with an American accent? Give the demo a try! 
 
-*Attention*: It's highly recommended to clone the space and run it either locally or on a powerful GPU on HuggingFace. The model might take 20 seconds to do inference on HF's free vCPUs. On the other hand, it takes less than a second to make inference on an Nvidia 3090. 
+**Attention**: It's highly recommended to clone the space and run it either locally or on a powerful GPU on HuggingFace. The model might take more than 20 seconds to do inference on HF's free vCPUs. On the other hand, it takes less than a second to make inference on an Nvidia 3090. 
 
 
-[AccentCoach on HuggingFace](https://huggingface.co/spaces/otioss/AccentCoach)
+[##AccentCoach on HuggingFace](https://huggingface.co/spaces/otioss/AccentCoach)
 
 [![Accent-Coach-AI-Accent-Cloning-Reduction.jpg](https://i.postimg.cc/wvYtD7Dd/Accent-Coach-AI-Accent-Cloning-Reduction.jpg)](https://huggingface.co/spaces/otioss/AccentCoach)
 
