@@ -8,10 +8,10 @@ Accent reduction is a goal that many non-native English speakers persue. A big o
 Now how can we change the accent of a non-native English speaker to sound like a native American speaker? Well, It turns out by carefully adjusting the *prosody* and *timbre* in a TTS model such as [StyleTTS2](https://github.com/yl4579/StyleTTS2), we can achieve this accent transformation with ease. 
 
 
-I created a demo on HuggingFace called [AccentCoach](https://huggingface.co/spaces/otioss/AccentCoach) that can transform any accent into an American accent. It is technically a STTS: Speech-to-Text (Whisper) and then Text-to-Speech (StyleTTS2). The output sounds a bit robotic, but it is good enough to assist English language learners. Let's hear two examples first.
+I created a demo on HuggingFace called **[AccentCoach](https://huggingface.co/spaces/otioss/AccentCoach)** that can transform any accent into an American accent. It is technically a STTS: Speech-to-Text (Whisper) and then Text-to-Speech (StyleTTS2). The output sounds a bit robotic, but it is good enough to assist English language learners. Let's hear two examples first.
 
 
-**Einstein**'s distinct German accent:
+**Einstein's distinct accent**:
 
 <audio controls="controls" preload="auto" src="/assets/audio/Albert-Einstein.wav">
 <p>Your browser does not support the audio element.</p>
@@ -26,7 +26,7 @@ Here is **Eintein's American accent** produced by AccentCoach:
 </audio>
 
 <br/>
-*Arnold Schwarzenegger's Austrian accent*:
+**Arnold Schwarzenegger's accent**:
 <audio controls="controls" preload="auto" src="/assets/audio/Arnold-Schwarzenegger.wav">
 <p>Your browser does not support the audio element.</p>
 </audio>
@@ -41,9 +41,9 @@ Here is **Arnold Schwarzenegger's American accent** produced by AccentCoach:
 
 Curious about how you'd sound with an American accent? Give the demo a try! 
 
-**Attention**: It's highly recommended to clone the space and run it either locally or on a powerful GPU on HuggingFace. The model might take more than 20 seconds to do inference on HF's free vCPUs. On the other hand, it takes less than a second to make inference on an Nvidia 3090. 
+**Attention**: It's highly recommended to clone the space and run it either locally or on a powerful GPU on HuggingFace. The model might take more than 10 seconds to do inference on HF's free vCPUs. On the other hand, it takes less than a second to make inference on an Nvidia 3090. 
 
-##[AccentCoach on HuggingFace](https://huggingface.co/spaces/otioss/AccentCoach)
+## [AccentCoach on HuggingFace](https://huggingface.co/spaces/otioss/AccentCoach)
 
 
 [![Accent-Coach-AI-Accent-Cloning-Reduction.jpg](https://i.postimg.cc/wvYtD7Dd/Accent-Coach-AI-Accent-Cloning-Reduction.jpg)](https://huggingface.co/spaces/otioss/AccentCoach)
