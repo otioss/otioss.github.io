@@ -43,7 +43,8 @@ Curious about how you'd sound with an American accent? Give the demo a try!
 
 **Attention**: It's highly recommended to clone the space and run it either locally or on a powerful GPU on HuggingFace. The model might take more than 20 seconds to do inference on HF's free vCPUs. On the other hand, it takes less than a second to make inference on an Nvidia 3090. 
 
-<a href=“https://huggingface.co/spaces/otioss/AccentCoach” style=“font-size: 30px;”>AccentCoach on HuggingFace</a>
+##[AccentCoach on HuggingFace](https://huggingface.co/spaces/otioss/AccentCoach)
+
 
 
 [![Accent-Coach-AI-Accent-Cloning-Reduction.jpg](https://i.postimg.cc/wvYtD7Dd/Accent-Coach-AI-Accent-Cloning-Reduction.jpg)](https://huggingface.co/spaces/otioss/AccentCoach)
