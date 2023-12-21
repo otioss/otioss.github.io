@@ -50,4 +50,16 @@ Curious about how you'd sound with an American accent? Give the demo a try!
 [![Accent-Coach-AI-Accent-Cloning-Reduction.jpg](https://i.postimg.cc/wvYtD7Dd/Accent-Coach-AI-Accent-Cloning-Reduction.jpg)](https://huggingface.co/spaces/otioss/AccentCoach)
 
 
+## Run AccentCoach locally
+I tested this on Arch Linux, but the steps should be applicable to Mac and Windows as well, with minor modification.
 
+1. git lfs install
+2. git clone https://huggingface.co/spaces/otioss/AccentCoach
+3. cd AccentCoach
+4. python -m venv ac_env
+5. source ac_env/bin/activate
+6. pip install -r requirements.txt
+7. sudo pacman -S espeak-ng
+Now run the app:
+8. python accent_gradio.py
+9. Open the URL http://127.0.0.1:7860 in your browser.
