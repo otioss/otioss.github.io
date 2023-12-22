@@ -53,7 +53,7 @@ Curious about how you'd sound with an American accent? Give the demo a try!
 ## Run AccentCoach Locally
 I tested this on Arch Linux, but the steps should be applicable to Mac and Windows as well, with minor modification. An Nvidia card with at least 8GB of RAM is recommended. However you can run it on CPU or any hardware that PyTorch supports.
 
-```
+```bash
 git lfs install
 git clone https://huggingface.co/spaces/otioss/AccentCoach
 cd AccentCoach
