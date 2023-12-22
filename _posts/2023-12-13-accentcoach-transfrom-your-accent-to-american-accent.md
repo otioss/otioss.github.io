@@ -50,10 +50,10 @@ Curious about how you'd sound with an American accent? Give the demo a try!
 [![Accent-Coach-AI-Accent-Cloning-Reduction.jpg](https://i.postimg.cc/wvYtD7Dd/Accent-Coach-AI-Accent-Cloning-Reduction.jpg)](https://huggingface.co/spaces/otioss/AccentCoach)
 
 
-## Run `AccentCoach` Locally
+## Run AccentCoach Locally
 I tested this on Arch Linux, but the steps should be applicable to Mac and Windows as well, with minor modification. An Nvidia card with at least 8GB of RAM is recommended. However you can run it on CPU or any hardware that PyTorch supports.
 
-```shell
+```
 git lfs install
 git clone https://huggingface.co/spaces/otioss/AccentCoach
 cd AccentCoach
@@ -65,3 +65,4 @@ sudo pacman -S espeak-ng
 # Now run the app:
 python accent_gradio.py
 # Open the URL http://127.0.0.1:7860 in your browser.
+```
