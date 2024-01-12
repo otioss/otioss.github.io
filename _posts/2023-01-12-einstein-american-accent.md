@@ -1,6 +1,6 @@
 ---
-title: "AccentCoach: Transfrom Your Accent into American Accent"
-date: '2023-12-22'
+title: "Einstein's american accent"
+date: '2024-01-12'
 ---
 
 Accent reduction is a goal that many non-native English speakers persue. A big obstacle is that they often listen to native speakers’ speech, but they have never heard **their own voice with a native accent**. If learners could listen to their own voice speaking with a native accent, they can notice the differences and improve how they sound. Think of it like a personal AI accent coach but with your own voice.
