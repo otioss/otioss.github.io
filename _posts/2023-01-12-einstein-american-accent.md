@@ -1,5 +1,5 @@
 ---
-title: "Einstein's american accent"
+title: "Einstein's American Accent"
 date: '2024-01-12'
 ---
 
